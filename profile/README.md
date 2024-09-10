@@ -1,4 +1,4 @@
-# Impact Initiatives - Humanitarian Planning and Preparedness Unit (HPPU)
+# Impact Initiatives - Humanitarian Planning and Prioritisation Unit (HPPU)
 
 Welcome to the Impact Initiatives - Humanitarian Planning and Prioritisation Unit (HPPU) GitHub organization! 
 
